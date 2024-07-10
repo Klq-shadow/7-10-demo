@@ -1882,7 +1882,7 @@ header .menu2 i {
 }
 
 .swiper-container1 img {
-    width: 100%;
+    width: auto;
     height: 235px;
 }
 
