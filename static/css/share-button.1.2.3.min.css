@@ -181,7 +181,7 @@ button.share-more {
 .share-closed {
     z-index: 1;
     background-color: #fff;
-    background-image: url(../img/closed-icon.svg);
+    background-image: url(../img/Closed-icon.svg);
     background-position: center;
     background-size: 12px;
     background-repeat: no-repeat;
@@ -222,77 +222,77 @@ button.share-more {
 
 .share-fb .icon {
     background-color: #3b5998;
-    background-image: url(../img/facebook.svg)
+    background-image: url(../img/Facebook.svg)
 }
 
 .share-t .icon {
     background-color: #000;
-    background-image: url(../img/twitter.svg)
+    background-image: url(../img/Twitter.svg)
 }
 
 .share-vk .icon {
     background-color: #6383a8;
-    background-image: url(../img/vkontakte.svg)
+    background-image: url(../img/Vkontakte.svg)
 }
 
 .share-reddit .icon {
     background-color: #ff5700;
-    background-image: url(../img/reddit.svg)
+    background-image: url(../img/Reddit.svg)
 }
 
 .share-whatsapp .icon {
     background-color: #4dc247;
-    background-image: url(../img/whatsapp.svg)
+    background-image: url(../img/WhatsApp.svg)
 }
 
 .share-gmail .icon {
     background-color: #db4437;
-    background-image: url(../img/gmail.svg)
+    background-image: url(../img/Gmail.svg)
 }
 
 .share-googlebookmark .icon {
     background-color: #4285f4;
-    background-image: url(../img/googlebookmark.svg)
+    background-image: url(../img/GoogleBookmark.svg)
 }
 
 .share-e .icon {
     background-color: #585858;
-    background-image: url(../img/email.svg)
+    background-image: url(../img/Email.svg)
 }
 
 .share-adfty .icon {
     background-color: #9dcb43;
-    background-image: url(../img/adfty.svg)
+    background-image: url(../img/Adfty.svg)
 }
 
 .share-linkedin .icon {
     background-color: #0077b5;
-    background-image: url(../img/linkedin.svg)
+    background-image: url(../img/LinkedIn.svg)
 }
 
 .share-print .icon {
     background-color: #738a8d;
-    background-image: url(../img/print.svg)
+    background-image: url(../img/Print.svg)
 }
 
 .share-pinterest .icon {
     background-color: #cb2027;
-    background-image: url(../img/pinterest.svg)
+    background-image: url(../img/Pinterest.svg)
 }
 
 .share-messenger .icon {
     background-color: #0084ff;
-    background-image: url(../img/messenger.svg)
+    background-image: url(../img/Messenger.svg)
 }
 
 .share-sinaweibo .icon {
     background-color: #e6162d;
-    background-image: url(../img/sinaweibo.svg)
+    background-image: url(../img/SinaWeibo.svg)
 }
 
 .share-blogger .icon {
     background-color: #f57d00;
-    background-image: url(../img/blogger.svg)
+    background-image: url(../img/Blogger.svg)
 }
 
 .share-100zakladok .icon {
@@ -302,42 +302,37 @@ button.share-more {
 
 .share-amazon .icon {
     background-color: #f90;
-    background-image: url(../img/amazon.svg)
+    background-image: url(../img/Amazon.svg)
 }
 
 .share-telegram .icon {
     background-color: #08c;
-    background-image: url(../img/telegram.svg)
+    background-image: url(../img/Telegram.svg)
 }
 
 .share-myspace .icon {
     background-color: #282828;
-    background-image: url(../img/myspace.svg)
-}
-
-.share-wechat .icon {
-    background-color: #2dc100;
-    background-image: url(../img/wechat.svg)
+    background-image: url(../img/Myspace.svg)
 }
 
 .share-line .icon {
     background-color: #00c300;
-    background-image: url(../img/line.svg)
+    background-image: url(../img/Line.svg)
 }
 
 .share-viber .icon {
     background-color: #7b519d;
-    background-image: url(../img/viber.svg)
+    background-image: url(../img/Viber.svg)
 }
 
 .share-odnoklassniki .icon {
     background-color: #d57819;
-    background-image: url(../img/odnoklassniki.svg)
+    background-image: url(../img/Odnoklassniki.svg)
 }
 
 .share-qrcode .icon {
     background-color: #4a8bf6;
-    background-image: url(../img/qrsrc.svg);
+    background-image: url(../img/Qrsrc.svg);
     background-size: 80%
 }
 
